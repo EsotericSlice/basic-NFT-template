@@ -1,7 +1,7 @@
 {
   "name": "art_generator",
   "version": "1.0.0",
-  "description": "Important: There is a new repo for this code.\r [https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)",
+  "description": "Have fun with this little nft kitty!,
   "main": "index.js",
   "scripts": {
     "build": "node index.js",
