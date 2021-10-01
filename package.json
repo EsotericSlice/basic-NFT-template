@@ -1,7 +1,7 @@
 {
   "name": "art_generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Important: There is a new repo for this code.\r [https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)",
   "main": "index.js",
   "scripts": {
     "build": "node index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.8.0"
-  }
+  },
+  "devDependencies": {}
 }
