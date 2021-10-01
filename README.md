@@ -1,4 +1,4 @@
-# Welcome to Esoteric Slice 🌞
+# Welcome to EsotericSlice 🌞
 
 Everything you need is in this simple NFT template kit and what we'll be using during our workshop! 
 
