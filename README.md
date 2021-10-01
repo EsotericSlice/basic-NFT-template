@@ -8,7 +8,7 @@ Follow me on [Instagram](https://www.instagram.com/esotericslice/) for wholesum 
 
 Create simple generative NFTs like these!
 
-![](https://github.com/EsotericSlice/simple-nft-template/blob/main/src/preview.png)
+![](https://github.com/EsotericSlice/simple-nft-template/blob/main/src/nft_preview.jpg)
 
 ## Installation
 
