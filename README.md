@@ -1,8 +1,10 @@
 # Welcome to EsotericSlice 🌞
 
-Everything you need is in this simple NFT template kit and what we'll be using during our workshop! 
+Everything you need is in this simple NFT template kit!
 
-Follow me on [Instagram](https://www.instagram.com/esotericslice/) for wholesum goodies 🥦😺
+👉 Follow me on [Instagram](https://www.instagram.com/esotericslice/) @esotericslice for wholesum goodies 🥦
+
+👉 Buy my NTFs on [OpenSea](https://opensea.io/EsotericSlice) 🌊
 
 # basic-nft-template
 
@@ -12,7 +14,7 @@ Create simple NFTs like these!
 
 ## Installation
 
-Download zip at https://github.com/EsotericSlice/simple-nft-template
+Download zip file at https://github.com/EsotericSlice/simple-nft-template
 
 Download Node.js at https://nodejs.org/en/
 
