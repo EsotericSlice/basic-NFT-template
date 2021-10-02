@@ -50,7 +50,7 @@ The `name` of each layer object represents the name of the folder (in `/layers/`
 
 Then update your `format` size (the final image size) to 1000 px by 1000 px, and also update the defaultEdition, which is the amount of editions that will be created (1-10,000+).
 
-> Note: To prevent duplicates, you must have enough layer options if you want to create thousands of variations.
+> Note: To prevent duplicates, you must have enough layer options if you want to create thousands of variations. 💡
 
 When ready, run the following command and your outputted art will be in the `build` directory:
 
