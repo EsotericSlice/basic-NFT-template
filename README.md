@@ -10,7 +10,7 @@ Everything you need is in this simple NFT template kit!
 
 Create simple NFTs like these!
 
-![](https://github.com/EsotericSlice/simple-nft-template/blob/main/src/nft_preview.jpg)
+![](https://github.com/EsotericSlice/simple-nft-templatess/blob/main/src/nft_workshop_final_preview.jpg)
 
 ## Installation
 
