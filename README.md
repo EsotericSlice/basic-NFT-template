@@ -52,7 +52,7 @@ Then update your `format` size (the final image size) to 1000 px by 1000 px, and
 
 > Note: To prevent duplicates, you must have enough layer options if you want to create thousands of variations. 💡
 
-When ready, run the following command and your outputted art will be in the `build` directory:
+When ready, run the following command and your generated art will be in the `build` directory:
 
 ```sh
 node index.js
