@@ -10,7 +10,9 @@
   "author": "Daniel Eugene Botha",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.8.0"
-  },
-  "devDependencies": {}
+    "-": "^0.0.1",
+    "canvas": "^2.8.0",
+    "g": "^2.0.1",
+    "truffle": "^5.4.13"
+  }
 }
